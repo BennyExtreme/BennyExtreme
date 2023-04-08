@@ -6,8 +6,6 @@
   <p> <img alt="BennyExtreme" src="https://komarev.com/ghpvc/?username=BennyExtreme&label=Profile%20views&color=0e75b6&style=flat" /> </p>
   <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BennyExtreme&count_private=true&show_icons=true&theme=github_dark&hide_title=true" /> </p>
   <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=BennyExtreme&theme=github_dark" /> </p>
-  <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennyExtreme&layout=compact&langs_count=10&show_icons=true&theme=github_dark&hide_title=true" /> </p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
 
 <h2>💻 My Discord Status</h2>
