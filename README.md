@@ -3,13 +3,13 @@
 
 <h2>📊 My Github Stats</h2>
 <div align="center">
-  <p> <img alt="BennyExtreme" src="https://komarev.com/ghpvc/?username=BennyExtreme&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-  <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BennyExtreme&count_private=true&show_icons=true&theme=github_dark&hide_title=true" /> </p>
-  <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=BennyExtreme&theme=github_dark" /> </p>
+  <p> <img alt="BennyExtreme" src="https://komarev.com/ghpvc/?username=BennyExtreme&label=Profile%20views&color=0e75b6&style=flat" /> </p> <!-- https://github.com/antonkomarev/github-profile-views-counter, https://yhype.me/ghpvc -->
+  <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BennyExtreme&count_private=true&show_icons=true&theme=github_dark&hide_title=true" /> </p> <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=BennyExtreme&theme=github_dark" /> </p> <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 </div>
 
 <h2>💻 My Discord Status</h2>
-<p align="center"> <a href="https://discord.com/users/381833180132671488"><img alt="Discord" src="https://lanyard.cnrad.dev/api/381833180132671488?bg=00000000" /></a> </p>
+<p align="center"> <a href="https://discord.com/users/381833180132671488"><img alt="Discord" src="https://lanyard.cnrad.dev/api/381833180132671488?bg=00000000" /></a> </p> <!-- https://github.com/cnrad/lanyard-profile-readme, https://lanyard.cnrad.dev/ -->
 
 <h2>🔗 Connect with me</h2>
 <p align="center">
@@ -23,18 +23,3 @@
   <a href = "mailto:bennygames.yt@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
   <a href = "https://linktr.ee/BennyExtreme"><img src="https://img.icons8.com/fluent/48/000000/link.png"/></a>
 </p>
-
-<!--
-**BennyExtreme/BennyExtreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
