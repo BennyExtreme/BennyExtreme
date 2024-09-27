@@ -3,7 +3,7 @@
 <h2>📊 My Github Stats</h2>
 <div align="center">
   <p> <img alt="BennyExtreme" src="https://komarev.com/ghpvc/?username=BennyExtreme&label=Profile%20views&color=0e75b6&style=flat" /> </p> <!-- https://github.com/antonkomarev/github-profile-views-counter, https://yhype.me/ghpvc -->
-  <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BennyExtreme&count_private=true&show_icons=true&theme=github_dark&hide_title=true" /> </p> <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BennyExtreme&count_private=true&show_icons=true&theme=github_dark&hide_title=true&hide=commits" /> </p> <!-- https://github.com/anuraghazra/github-readme-stats -->
   <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=BennyExtreme&theme=github_dark" /> </p> <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 </div>
 
